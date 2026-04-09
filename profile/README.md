@@ -4,6 +4,8 @@ This organization gathers all the repositories associated with the thesis projec
 
 Built with Go and WebAssembly, Ermes addresses the limitations of traditional, stateless cloud-centric FaaS platforms. It natively integrates state management into the serverless paradigm, utilizing a decentralized, locality-aware scheduling policy that co-locates computation and state to minimize latency in resource-constrained edge environments.
 
+![Architecture diagram](../images/SystemArchitectureComp.svg)
+
 ## 📂 Organization Structure
 The repositories are divided into logical categories based on their role within the framework to make navigation easier.
 
